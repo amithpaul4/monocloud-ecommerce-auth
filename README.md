@@ -1,5 +1,7 @@
 # MonoCloud E-Commerce Authentication Demo
 
+This project was developed as part of the MonoCloud authentication assignment to understand real-world OAuth and JWT-based API security.
+
 ## Project Overview
 
 This project is a secure e-commerce prototype built using:
@@ -24,7 +26,7 @@ The main focus of this project is implementing secure authentication and protect
 * Scope-Based Authorization
 * Token Expiration Handling
 * Secure Bearer Token Authentication
-* Frontend Cart UI Prototype
+* Basic frontend cart functionality
 
 # Tech Stack
 
